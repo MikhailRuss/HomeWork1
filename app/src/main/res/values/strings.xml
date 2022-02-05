@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeWork 1</string>
+    <string name="nameTextView">Введите Ваше имя</string>
+    <string name="sendButton">Отправить</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="get_news">Get news</string>
+    <string name="toggleButton">Моя кнопка</string>
+    <string name="nameHint">Иванов Иван Иванович</string>
+
+
+</resources>
